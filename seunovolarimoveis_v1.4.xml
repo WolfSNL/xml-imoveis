@@ -1,0 +1,1467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Carga>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/apartamento-a-venda-no-residencial-village-damore-por-500-000-00-indaiatuba-sp_20251029123248.jpg</URLArquivo>
+    <CodigoImovel>AP000507</CodigoImovel>
+    <TipoImovel>APARTAMENTO</TipoImovel>
+    <Observacao>APARTAMENTO À VENDA NO RESIDENCIAL VILLAGE D&quot;AMORE POR R$500.000,00 INDAIATUBA SP</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/apartamento-a-venda-no-residencial-village-damore-por-r50000000-indaiatuba-sp</URL>
+    <PrecoVenda>500000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/apartamento-gardem-a-venda-no-condominio-the-palms-por-308-000-00-indaiatuba-sp_20251029113701.jpg</URLArquivo>
+    <CodigoImovel>CA000506</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>APARTAMENTO GARDEM A VENDA NO CONDOMÍNIO THE PALMS POR R$308.000,00 INDAIATUBA SP</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/apartamento-gardem-a-venda-no-condominio-the-palms-por-r30800000-indaiatuba-sp</URL>
+    <PrecoVenda>308000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/casa-a-venda-no-condominio-vila-rica-por-900-000-00-indaiatuba-sp_20251028160100.jpg</URLArquivo>
+    <CodigoImovel>CA000505</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>CASA Á VENDA NO CONDOMÍNIO VILA RICA POR R$900.000,00 INDAIATUBA SP</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/casa-a-venda-no-condominio-vila-rica-por-r90000000-indaiatuba-sp</URL>
+    <PrecoVenda>900000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/apartamento-a-venda-no-condominio-vitoria-regia-por-235-000-00-indaiatuba-sp_20251022141647.jpg</URLArquivo>
+    <CodigoImovel>AP000504</CodigoImovel>
+    <TipoImovel>APARTAMENTO</TipoImovel>
+    <Observacao>APARTAMENTO A VENDA NO CONDOMÍNIO VITORIA RÉGIA POR R$235.000,00 INDAIATUBA SP</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/apartamento-a-venda-no-condominio-vitoria-regia-por-r23500000-indaiatuba-sp</URL>
+    <PrecoVenda>235000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/terreno-a-venda-no-condominio-laguna-no-valor-de-380-000-00_20250926152451.jpeg</URLArquivo>
+    <CodigoImovel>TE000503</CodigoImovel>
+    <TipoImovel>TERRENO</TipoImovel>
+    <Observacao>TERRENO Á VENDA NO CONDOMÍNIO LAGUNA NO VALOR DE R$380.000,00</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/terreno-a-venda-no-condominio-laguna-no-valor-de-r38000000</URL>
+    <PrecoVenda>380000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/casa-a-venda-no-bom-sucesso-por-795-000-00-indaiatuba-sp_20250923093251.jpg</URLArquivo>
+    <CodigoImovel>CA000501</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>CASA À VENDA NO BOM SUCESSO POR R$745.000,00 INDAIATUBA SP</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/casa-a-venda-no-bom-sucesso-por-r74500000-indaiatuba-sp</URL>
+    <PrecoVenda>745000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/casa-a-venda-no-jardim-bom-sucesso-por-850-000-00-indaiatuba-sp_20250923090047.jpg</URLArquivo>
+    <CodigoImovel>CA000500</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>CASA À VENDA NO JARDIM BOM SUCESSO POR R$795.000,00 INDAIATUBA SP</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/casa-a-venda-no-jardim-bom-sucesso-por-r79500000-indaiatuba-sp</URL>
+    <PrecoVenda>795000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/vendo-apartamento-2-suites-82-m-830-000-00-indaiatuba-sp_20250922150137.jpeg</URLArquivo>
+    <CodigoImovel>AP000499</CodigoImovel>
+    <TipoImovel>APARTAMENTO</TipoImovel>
+    <Observacao>VENDO APARTAMENTO - 2 SUÍTES - 82 M² - R$830.000,00 - Indaiatuba/SP</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/vendo-apartamento-2-suites-82-m-r83000000-indaiatubasp</URL>
+    <PrecoVenda>830000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/casa-a-venda-no-condominio-jardim-laguna-por-1-750-000-00-indaiatuba-sp_20250910095245.jpg</URLArquivo>
+    <CodigoImovel>CA000498</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>CASA À VENDA NO CONDOMÍNIO JARDIM LAGUNA POR R$1.750.000,00 INDAIATUBA SP</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/casa-a-venda-no-condominio-jardim-laguna-por-r175000000-indaiatuba-sp</URL>
+    <PrecoVenda>1750000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/casa-a-venda-no-condominio-viena-por-2-000-000-00-indaiatuba-sp_20250905160500.jpg</URLArquivo>
+    <CodigoImovel>CA000497</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>CASA À VENDA NO CONDOMÍNIO VIENA POR R$2.000.000,00 INDAIATUBA SP</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/casa-a-venda-no-condominio-viena-por-r200000000-indaiatuba-sp</URL>
+    <PrecoVenda>2000000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/casa-a-venda-no-condominio-viena-por-1-850-000-00-indaiatuba-sp_20250905151529.jpg</URLArquivo>
+    <CodigoImovel>CA000496</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>CASA À VENDA NO CONDOMÍNIO VIENA POR R$1.850.000,00 INDAIATUBA SP</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/casa-a-venda-no-condominio-viena-por-r185000000-indaiatuba-sp</URL>
+    <PrecoVenda>1850000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/casa-a-venda-no-condominio-amstaldem-por-1-600-000-00-indaiatuba-sp_20250905104435.jpg</URLArquivo>
+    <CodigoImovel>CA000495</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>CASA À VENDA NO CONDOMÍNIO AMSTALDEM POR R$1.600.000,00 INDAIATUBA SP</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/casa-a-venda-no-condominio-amstaldem-por-r160000000-indaiatuba-sp</URL>
+    <PrecoVenda>1600000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/sobrado-a-venda-no-residencial-viena-por-1-750-000-00-indaiatuba-sp_20250905101525.jpg</URLArquivo>
+    <CodigoImovel>SO000494</CodigoImovel>
+    <TipoImovel>SOBRADO</TipoImovel>
+    <Observacao>SOBRADO À VENDA NO RESIDENCIAL VIENA POR R$1.750.000,00 INDAIATUBA SP</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/sobrado-a-venda-no-residencial-viena-por-r175000000-indaiatuba-sp</URL>
+    <PrecoVenda>1750000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/apartamento-duplex-a-venda-no-condominio-le-chateau-frontenac-por-2100-000-00-indaiatuba-sp_20250904162452.jpg</URLArquivo>
+    <CodigoImovel>AP000492</CodigoImovel>
+    <TipoImovel>APARTAMENTO</TipoImovel>
+    <Observacao>APARTAMENTO DUPLEX À VENDA NO CONDOMINIO LÊ CHATEAU FRONTENAC POR R$2.100.000,00 INDAIATUBA SP</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/apartamento-duplex-a-venda-no-condominio-le-chateau-frontenac-por-r210000000-indaiatuba-sp</URL>
+    <PrecoVenda>2100000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/apartamento-condominio-primo-uno-no-valor-de-650-000-00-indaiatuba_20250902111849.jpeg</URLArquivo>
+    <CodigoImovel>AP000491</CodigoImovel>
+    <TipoImovel>APARTAMENTO</TipoImovel>
+    <Observacao>APARTAMENTO CONDOMÍNIO PRIMO UNO NO VALOR DE R$650.000,00 - INDAIATUBA</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/apartamento-condominio-primo-uno-no-valor-de-r65000000-indaiatuba</URL>
+    <PrecoVenda>650000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/terreno-a-venda-no-condominio-helvetia-park-por-1-150-000-00-indaiatuba-s-p_20250827113324.jpg</URLArquivo>
+    <CodigoImovel>TE000490</CodigoImovel>
+    <TipoImovel>TERRENO</TipoImovel>
+    <Observacao>TERRENO À VENDA NO CONDOMÍNIO HELVETIA PARK POR R$1.150.000,00 INDAIATUBA S/P</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/terreno-a-venda-no-condominio-helvetia-park-por-r115000000-indaiatuba-sp</URL>
+    <PrecoVenda>1150000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/casa-a-venda-na-morada-do-sol-por-595-000-00-indaiatuba-s-p_20250812112008.jpg</URLArquivo>
+    <CodigoImovel>CA000489</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>CASA À VENDA NA MORADA DO SOL POR R$595.000,00 INDAIATUBA - S/P</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/casa-a-venda-na-morada-do-sol-por-r59500000-indaiatuba-sp</URL>
+    <PrecoVenda>595000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/casa-a-venda-no-jardim-das-araras-por-550-000-00-indaiatuba-s-p_20250808131133.jpg</URLArquivo>
+    <CodigoImovel>CA000488</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>CASA À VENDA NO JARDIM DAS ARARAS POR R$550.000,00 INDAIATUBA S/P</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/casa-a-venda-no-jardim-das-araras-por-r55000000-indaiatuba-sp</URL>
+    <PrecoVenda>550000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/casa-em-construcao-a-venda-no-jardim-bom-sucesso-por-750-000-00-em-indaiatuba-sp_20250801165527.jpeg</URLArquivo>
+    <CodigoImovel>CA000487</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>CASA EM CONSTRUÇÃO À VENDA NO JARDIM BOM SUCESSO  POR - R$750.000,00 - EM INDAIATUBA SP</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/casa-em-construcao-a-venda-no-jardim-bom-sucesso-por-r75000000-em-indaiatuba-sp</URL>
+    <PrecoVenda>750000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/casa-a-venda-no-jardim-moryama-por-499-000-00-indaiatuba-s-p_20250729170640.jpg</URLArquivo>
+    <CodigoImovel>CA000485</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>CASA À VENDA NO JARDIM MORYAMA POR R$499.000,00 INDAIATUBA S/P</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/casa-a-venda-no-jardim-moryama-por-r49900000-indaiatuba-sp</URL>
+    <PrecoVenda>499000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/linda-casa-a-venda-no-jardim-colonial-por-590-000-00-indaiatuba-s-p_20250729100840.jpg</URLArquivo>
+    <CodigoImovel>CA000483</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>LINDA CASA À VENDA NO JARDIM COLONIAL POR R$590.000,00 INDAIATUBA S/P</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/linda-casa-a-venda-no-jardim-colonial-por-r59000000-indaiatuba-sp</URL>
+    <PrecoVenda>850000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/apartamento-com-suite-e-moveis-planejados-com-execelente-localizacao-em-indaiatuba-sp-630-000-00_20250718111048.jpeg</URLArquivo>
+    <CodigoImovel>CA000479</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>APARTAMENTO COM SUÍTE E MÓVEIS PLANEJADOS - COM EXECELENTE LOCALIZAÇÃO - EM INDAIATUBA SP - R$630.000,00</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/apartamento-com-suite-e-moveis-planejados-com-execelente-localizacao-em-indaiatuba-sp-r63000000</URL>
+    <PrecoVenda>560000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/2-lotes-no-jardim-paulista-ii-cada-um-por-250-000-00_20250718105013.jpg</URLArquivo>
+    <CodigoImovel>TE000478</CodigoImovel>
+    <TipoImovel>TERRENO</TipoImovel>
+    <Observacao>2 LOTES NO JARDIM PAULISTA II  CADA  UM POR R$250.000,00</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/2-lotes-no-jardim-paulista-ii-cada-um-por-r25000000</URL>
+    <PrecoVenda>790000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/casa-terrea-a-venda-no-bairro-brigadeiro-faria-lima-500-000-00-indaiatuba-sp_20250715110532.jpg</URLArquivo>
+    <CodigoImovel>CA000476</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>CASA TÉRREA A VENDA NO BAIRRO BRIGADEIRO FARIA LIMA - R$ 500.000,00 - INDAIATUBA - SP</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/casa-terrea-a-venda-no-bairro-brigadeiro-faria-lima-r-50000000-indaiatuba-sp</URL>
+    <PrecoVenda>1400000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/casa-a-venda-em-bairro-jd-res-nova-veneza-689-000-00-indaiatuba-sp_20250710094502.jpeg</URLArquivo>
+    <CodigoImovel>CA000475</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>CASA A VENDA EM BAIRRO JD RES. NOVA VENEZA - $ 689.000,00 - INDAIATUBA - SP</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/casa-a-venda-em-bairro-jd-res-nova-veneza-68900000-indaiatuba-sp</URL>
+    <PrecoVenda>0</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/casa-de-alto-padrao-a-venda-em-condominio-em-salto-sp-1-980-000-00_20250708154438.jpeg</URLArquivo>
+    <CodigoImovel>CA000474</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>CASA DE ALTO PADRÃO À VENDA EM CONDOMÍNIO EM SALTO SP  $ 1.980.000,00</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/casa-de-alto-padrao-a-venda-em-condominio-em-salto-sp-198000000</URL>
+    <PrecoVenda>0</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/maravilhoso-terreno-plano-de-esquina-no-jd-lucilla-por-950-000-00-indaiatuba-sp_20250708145159.jpg</URLArquivo>
+    <CodigoImovel>TE000473</CodigoImovel>
+    <TipoImovel>TERRENO</TipoImovel>
+    <Observacao>MARAVILHOSO TERRENO PLANO DE ESQUINA  NO JD LUCILLA POR R$950.000,00 - INDAIATUBA - SP</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/maravilhoso-terreno-plano-de-esquina-no-jd-lucilla-por-r95000000-indaiatuba-sp</URL>
+    <PrecoVenda>1020000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/terreno-a-venda-pq-barnabe-185-000-00-indaiatuba-sp_20250707162339.jpeg</URLArquivo>
+    <CodigoImovel>TE000471</CodigoImovel>
+    <TipoImovel>TERRENO</TipoImovel>
+    <Observacao>TERRENO À VENDA PQ BARNABÉ - R$185.000,00 - INDAIATUBA - SP</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/terreno-a-venda-pq-barnabe-r18500000-indaiatuba-sp</URL>
+    <PrecoVenda>689000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/casa-a-venda-no-jd-paulista-por-605-000-00-indaiatuba-s-p_20250703164030.jpg</URLArquivo>
+    <CodigoImovel>SO000468</CodigoImovel>
+    <TipoImovel>SOBRADO</TipoImovel>
+    <Observacao>CASA À VENDA NO JD PAULISTA POR R$605.000,00 INDAIATUBA S/P</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/casa-a-venda-no-jd-paulista-por-r60500000-indaiatuba-sp</URL>
+    <PrecoVenda>1150000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/casa-maravilhosa-no-jd-uniao-indaiatuba-sp-565-000-00_20250702120238.jpeg</URLArquivo>
+    <CodigoImovel>CA000467</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>CASA MARAVILHOSA NO JD UNIÃO INDAIATUBA SP $565.000,00</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/casa-maravilhosa-no-jd-uniao-indaiatuba-sp-56500000</URL>
+    <PrecoVenda>0</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/casa-a-venda-com-3-suites-por-900-000-00-condominio-villa-rica-indaiatuba-sp_20250626160440.jpg</URLArquivo>
+    <CodigoImovel>CA000466</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>CASA À VENDA COM 3 SUÍTES POR R$900.000,00 CONDOMÍNIO VILLA RICA INDAIATUBA - SP</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/casa-a-venda-com-3-suites-por-r90000000-condominio-villa-rica-indaiatuba-sp</URL>
+    <PrecoVenda>680000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/casa-a-venda-por-799-800-00-na-regiao-central-de-indaiatuba-sp_20250626144321.jpg</URLArquivo>
+    <CodigoImovel>CA000465</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>CASA À VENDA POR R$799.800,00 NA REGIÃO CENTRAL DE INDAIATUBA - SP</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/casa-a-venda-por-r79980000-na-regiao-central-de-indaiatuba-sp</URL>
+    <PrecoVenda>460000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/casa-a-venda-no-bom-sucesso-por-750-000-00_20250617111425.jpeg</URLArquivo>
+    <CodigoImovel>CA000462</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>CASA À VENDA NO BOM SUCESSO NO VALOR DE R$750.000,00</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/casa-a-venda-no-bom-sucesso-no-valor-de-r75000000</URL>
+    <PrecoVenda>640000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/apartamento-a-venda-no-villa-helvetia-por-405-000-00_20250617104351.jpg</URLArquivo>
+    <CodigoImovel>AP000461</CodigoImovel>
+    <TipoImovel>APARTAMENTO</TipoImovel>
+    <Observacao>APARTAMENTO À VENDA NO VILLA HELVETIA POR R$405.000,00</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/apartamento-a-venda-no-villa-helvetia-por-r40500000</URL>
+    <PrecoVenda>335000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/casa-a-venda-no-jardim-beija-flor-por-430-000-00_20250617094054.png</URLArquivo>
+    <CodigoImovel>CA000460</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>CASA À VENDA NO JARDIM BEIJA FLOR POR R$430.000,00</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/casa-a-venda-no-jardim-beija-flor-por-r43000000</URL>
+    <PrecoVenda>1170000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/casa-a-venda-no-jardim-beija-flor-por-440-000-00_20250617092842.png</URLArquivo>
+    <CodigoImovel>CA000459</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>CASA À VENDA NO JARDIM BEIJA FLOR POR R$440.000,00</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/casa-a-venda-no-jardim-beija-flor-por-r44000000</URL>
+    <PrecoVenda>730000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/casa-no-jardim-dos-tucanos-por-435-000-00_20250617091626.png</URLArquivo>
+    <CodigoImovel>CA000458</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>CASA NO JARDIM DOS TUCANOS POR R$435.000,00</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/casa-no-jardim-dos-tucanos-por-r43500000</URL>
+    <PrecoVenda>350000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/lote-a-venda-no-jardim-bom-sucesso-por-230-000-00-indaiatuba-sp_20250616171330.jpg</URLArquivo>
+    <CodigoImovel>TE000457</CodigoImovel>
+    <TipoImovel>TERRENO</TipoImovel>
+    <Observacao>LOTE À VENDA NO JARDIM BOM SUCESSO POR R$230.000,00 INDAIATUBA - SP</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/lote-a-venda-no-jardim-bom-sucesso-por-r23000000-indaiatuba-sp</URL>
+    <PrecoVenda>250000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/casa-a-venda-no-smart-city-por-400-000-00-indaiatuba-sp_20250616134814.jpg</URLArquivo>
+    <CodigoImovel>CA000455</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>CASA À VENDA NO SMART CITY POR R$400.000,00 - INDAIATUBA - SP</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/casa-a-venda-no-smart-city-por-r40000000-indaiatuba-sp</URL>
+    <PrecoVenda>690000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/casa-a-venda-no-jardim-veneza-por-795-000-00-indaiatuba-sp_20250616132746.jpg</URLArquivo>
+    <CodigoImovel>CA000454</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>CASA À VENDA NO JARDIM VENEZA POR R$770.000,00 INDAIATUBA - SP</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/casa-a-venda-no-jardim-veneza-por-r77000000-indaiatuba-sp</URL>
+    <PrecoVenda>1700000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/casa-terrea-a-venda-no-residencial-park-vista-real-1-325-000-00_20250616093453.jpg</URLArquivo>
+    <CodigoImovel>CA000453</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>CASA TÉRREA À VENDA NO RESIDENCIAL PARK VISTA REAL R$1.325.000,00</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/casa-terrea-a-venda-no-residencial-park-vista-real-r132500000</URL>
+    <PrecoVenda>1300000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/terreno-a-venda-no-jd-santorini-por-240-000-00-indaiatuba-sp_20250610155303.jpg</URLArquivo>
+    <CodigoImovel>TE000452</CodigoImovel>
+    <TipoImovel>TERRENO</TipoImovel>
+    <Observacao>TERRENO À VENDA NO JD SANTORINI POR R$240.000,00 - INDAIATUBA - SP</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/terreno-a-venda-no-jd-santorini-por-r24000000-indaiatuba-sp</URL>
+    <PrecoVenda>2500000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/terreno-a-venda-no-jd-moriyama-por-260-000-00-indaiatuba-sp_20250610151314.jpg</URLArquivo>
+    <CodigoImovel>TE000451</CodigoImovel>
+    <TipoImovel>TERRENO</TipoImovel>
+    <Observacao>TERRENO À VENDA NO JD MORIYAMA POR R$260.000,00 - INDAIATUBA - SP</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/terreno-a-venda-no-jd-moriyama-por-r26000000-indaiatuba-sp</URL>
+    <PrecoVenda>1490000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/apartamento-garden-a-venda-no-valor-de-318-000-00_20250609160518.jpeg</URLArquivo>
+    <CodigoImovel>AP000450</CodigoImovel>
+    <TipoImovel>APARTAMENTO</TipoImovel>
+    <Observacao>APARTAMENTO GARDEN À VENDA NO VALOR DE R$318.000,00</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/apartamento-garden-a-venda-no-valor-de-r31800000</URL>
+    <PrecoVenda>630000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/terreno-residencial-evidencias-por-450-000-00_20250606164315.jpeg</URLArquivo>
+    <CodigoImovel>TE000449</CodigoImovel>
+    <TipoImovel>TERRENO</TipoImovel>
+    <Observacao>TERRENO RESIDENCIAL EVIDÊNCIAS POR R$450.000,00</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/terreno-residencial-evidencias-por-r45000000</URL>
+    <PrecoVenda>2120000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/casa-assobrada-vila-paradiso-3-600-000-00_20250616160852.jpg</URLArquivo>
+    <CodigoImovel>SO000448</CodigoImovel>
+    <TipoImovel>SOBRADO</TipoImovel>
+    <Observacao>CASA ASSOBRADA VILA PARADISO - R$3.600.000,00</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/casa-assobrada-vila-paradiso-r360000000</URL>
+    <PrecoVenda>1550000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/exclusividade-e-sotisficacao-casa-a-venda-helvetia-park-no-valor-de-3-700-000-00_20250605150003.jpg</URLArquivo>
+    <CodigoImovel>CA000447</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>EXCLUSIVIDADE E SOTISFICAÇÃO, CASA A VENDA - HELVETIA PARK NO VALOR DE R$3.700.000,00</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/exclusividade-e-sotisficacao-casa-a-venda-helvetia-park-no-valor-de-r370000000</URL>
+    <PrecoVenda>650000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/casa-a-venda-no-condominio-gran-reserve-por-1-390-000-00_20250603154420.jpg</URLArquivo>
+    <CodigoImovel>CA000446</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>CASA A VENDA NO CONDOMÍNIO GRAN RESERVE POR R$1.390.000,00</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/casa-a-venda-no-condominio-gran-reserve-por-r139000000</URL>
+    <PrecoVenda>1920000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/apartamento-a-venda-no-condominio-manai-por-560-000-00-indaiatuba-sp_20250603151510.jpg</URLArquivo>
+    <CodigoImovel>AP000445</CodigoImovel>
+    <TipoImovel>APARTAMENTO</TipoImovel>
+    <Observacao>APARTAMENTO À VENDA NO CONDOMÍNIO MANAI 5º ANDAR POR R$560.000,00 - INDAIATUBA - SP</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/apartamento-a-venda-no-condominio-manai-5-andar-por-r56000000-indaiatuba-sp</URL>
+    <PrecoVenda>2240000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/casa-terrea-gran-reserve-1-250-000-00_20250603113532.jpg</URLArquivo>
+    <CodigoImovel>CA000444</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>CASA TÉRREA GRAN RESERVE R$ 1.250.000,00</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/casa-terrea-gran-reserve-r-125000000</URL>
+    <PrecoVenda>850000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/casa-terrea-moderna-e-funcional-por-apenas-1-750-000-00_20250602163414.jpg</URLArquivo>
+    <CodigoImovel>CA000442</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>CASA TÉRREA MODERNA E FUNCIONAL NO EVIDENCIAIS POR APENAS R$ 1.750.000,00</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/casa-terrea-moderna-e-funcional-no-evidenciais-por-apenas-r-175000000</URL>
+    <PrecoVenda>2430000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/casa-a-venda-na-vila-sao-jose-por-780-000-00-indaiatuba-sp_20250530114006.jpg</URLArquivo>
+    <CodigoImovel>CA000441</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>CASA À VENDA NA VILA SÃO JOSÉ POR R$780.000,00 - INDAIATUBA - SP</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/casa-a-venda-na-vila-sao-jose-por-r78000000-indaiatuba-sp</URL>
+    <PrecoVenda>2600000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/casa-a-venda-no-centro-por-635-000-00-indaiatuba-sp_20250530102235.jpg</URLArquivo>
+    <CodigoImovel>CA000440</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>CASA À VENDA NO CENTRO POR R$635.000,00 - INDAIATUBA - SP</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/casa-a-venda-no-centro-por-r63500000-indaiatuba-sp</URL>
+    <PrecoVenda>2950000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/sobrado-alto-padrao-na-vila-suica-1-950-000-00_20250529133542.jpg</URLArquivo>
+    <CodigoImovel>SO000439</CodigoImovel>
+    <TipoImovel>SOBRADO</TipoImovel>
+    <Observacao>SOBRADO ALTO PADRÃO NA VILA SUÍÇA R$ 1.950.000,00</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/sobrado-alto-padrao-na-vila-suica-r-195000000</URL>
+    <PrecoVenda>4850000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/casa-a-venda-no-jardim-gaivotas-por-450-000-00_20250529130337.jpg</URLArquivo>
+    <CodigoImovel>CA000438</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>CASA À VENDA NO JARDIM GAIVOTAS POR R$450.000,00</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/casa-a-venda-no-jardim-gaivotas-por-r45000000</URL>
+    <PrecoVenda>250000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/casa-a-venda-jardim-bom-sucesso-por-750-000-00_20250529122454.jpg</URLArquivo>
+    <CodigoImovel>CA000437</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>CASA À VENDA JARDIM BOM SUCESSO POR R$750.000,00 - INDAIATUBA - SP</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/casa-a-venda-jardim-bom-sucesso-por-r75000000-indaiatuba-sp</URL>
+    <PrecoVenda>250000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/apartamento-a-venda-no-condominio-reserva-luiza-tomaselli-por-2-100-000-00-indaiatuba-sp_20250528172949.jpg</URLArquivo>
+    <CodigoImovel>AP000436</CodigoImovel>
+    <TipoImovel>APARTAMENTO</TipoImovel>
+    <Observacao>APARTAMENTO À VENDA NO CONDOMÍNIO RESERVA LUIZA TOMASELLI POR R$2.100.000,00 - INDAIATUBA - SP</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/apartamento-a-venda-no-condominio-reserva-luiza-tomaselli-por-r210000000-indaiatuba-sp</URL>
+    <PrecoVenda>340000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/casa-a-venda-com-suite-por-764-500-00-indaiatuba-sp_20250528105113.jpg</URLArquivo>
+    <CodigoImovel>CA000435</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>Casa á venda com Suite por R$764.500,00 - Indaiatuba - SP -</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/casa-a-venda-com-suite-por-r76450000-indaiatuba-sp</URL>
+    <PrecoVenda>840000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/casa-a-venda-no-jardim-smart-city-por-420-000-00_20250526164117.jpg</URLArquivo>
+    <CodigoImovel>CA000434</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>CASA A VENDA NO JARDIM SMART CITY POR R$420.000,00</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/casa-a-venda-no-jardim-smart-city-por-r42000000</URL>
+    <PrecoVenda>745000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/apartamento-a-venda-por-280-000-00-no-edificio-cecilia-indaiatuba-sp_20250526140148.jpeg</URLArquivo>
+    <CodigoImovel>AP000432</CodigoImovel>
+    <TipoImovel>APARTAMENTO</TipoImovel>
+    <Observacao>Apartamento à venda por R$280.000,00 no Edifício Cecília - Indaiatuba - SP</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/apartamento-a-venda-por-r28000000-no-edificio-cecilia-indaiatuba-sp</URL>
+    <PrecoVenda>1500000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/casa-a-venda-no-jardim-smart-city-por-440-000-00_20250526140752.jpg</URLArquivo>
+    <CodigoImovel>CA000431</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>CASA A VENDA NO JARDIM SMART CITY POR R$ 440.000,00</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/casa-a-venda-no-jardim-smart-city-por-r-44000000</URL>
+    <PrecoVenda>270000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/casa-a-venda-no-condominio-matova-por-1-170-000-00-indaiatuba-sp_20250524121706.jpg</URLArquivo>
+    <CodigoImovel>CA000429</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>Casa à venda no Condominio Matova por R$1.170.000,00 - Indaiatuba - SP</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/casa-a-venda-no-condominio-matova-por-r117000000-indaiatuba-sp</URL>
+    <PrecoVenda>2500000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/sobrado-no-condominio-vila-ytu-por-1-100-000-00_20250522141532.jpeg</URLArquivo>
+    <CodigoImovel>SO000427</CodigoImovel>
+    <TipoImovel>SOBRADO</TipoImovel>
+    <Observacao>SOBRADO NO CONDOMÍNIO VILA YTU POR R$ 1.100.000,00</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/sobrado-no-condominio-vila-ytu-por-r-110000000</URL>
+    <PrecoVenda>680000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/terreno-plano-no-campo-bonito-q28l22-por-219-240-00_20250507115259.png</URLArquivo>
+    <CodigoImovel>TE000424</CodigoImovel>
+    <TipoImovel>TERRENO</TipoImovel>
+    <Observacao>TERRENO PLANO NO CAMPO BONITO Q28L22 POR R$ 219.240,00</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/terreno-plano-no-campo-bonito-q28l22-por-r-21924000</URL>
+    <PrecoVenda>1550000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/terreno-em-avenida-no-campo-bonto-q27l52-por-222-575-00_20250507113409.png</URLArquivo>
+    <CodigoImovel>TE000423</CodigoImovel>
+    <TipoImovel>TERRENO</TipoImovel>
+    <Observacao>TERRENO EM AVENIDA NO CAMPO BONTO Q27L52 POR R$ 222.575,00</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/terreno-em-avenida-no-campo-bonto-q27l52-por-r-22257500</URL>
+    <PrecoVenda>620000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/terreno-no-campo-bonito-gleba-a-7-e2-por-2-052-167-00_20250507111052.png</URLArquivo>
+    <CodigoImovel>TE000421</CodigoImovel>
+    <TipoImovel>TERRENO</TipoImovel>
+    <Observacao>TERRENO NO CAMPO BONITO - GLEBA A 7-E2 - POR R$ 2.052.167,00</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/terreno-no-campo-bonito-gleba-a-7-e2-por-r-205216700</URL>
+    <PrecoVenda>730000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/oportunidade-casa-completa-com-estilo-pronta-para-morar-no-campo-bonito-por-650-000-00_20250507094051.jpeg</URLArquivo>
+    <CodigoImovel>CA000419</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>OPORTUNIDADE! CASA COMPLETA COM ESTILO - PRONTA PARA MORAR NO CAMPO BONITO POR R$650.000,00</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/oportunidade-casa-completa-com-estilo-pronta-para-morar-no-campo-bonito-por-r65000000</URL>
+    <PrecoVenda>1430000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/apartamento-a-venda-no-condominio-belvedere-por-515-000-00-indaiatuba-sp_20250505142305.jpg</URLArquivo>
+    <CodigoImovel>AP000417</CodigoImovel>
+    <TipoImovel>APARTAMENTO</TipoImovel>
+    <Observacao>APARTAMENTO À VENDA NO CONDOMÍNIO BELVERDE POR R$515.000,00 - INDAIATUBA - SP</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/apartamento-a-venda-no-condominio-belverde-por-r51500000-indaiatuba-sp</URL>
+    <PrecoVenda>2019500</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/terreno-no-campo-bonito-gleba-a-7c-2-por-2-178-449-00_20250502131810.png</URLArquivo>
+    <CodigoImovel>TE000416</CodigoImovel>
+    <TipoImovel>TERRENO</TipoImovel>
+    <Observacao>TERRENO NO CAMPO BONITO - GLEBA A 7C-2 - POR R$ 2.178.449,00</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/terreno-no-campo-bonito-gleba-a-7c-2-por-r-217844900</URL>
+    <PrecoVenda>880000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/terreno-no-campo-bonito-gleba-a-7c-1-por-2-178-449-00_20250429102233.jpeg</URLArquivo>
+    <CodigoImovel>TE000415</CodigoImovel>
+    <TipoImovel>TERRENO</TipoImovel>
+    <Observacao>TERRENO NO CAMPO BONITO - GLEBA A 7C-1 - POR R$ 2.178.449,00</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/terreno-no-campo-bonito-gleba-a-7c-1-por-r-217844900</URL>
+    <PrecoVenda>400000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/terreno-de-esquina-no-bem-te-vi-lote-30_20250428154157.jpeg</URLArquivo>
+    <CodigoImovel>TE000414</CodigoImovel>
+    <TipoImovel>TERRENO</TipoImovel>
+    <Observacao>TERRENO DE ESQUINA NO BEM TE VI LOTE 30 R$ 437.060,00</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/terreno-de-esquina-no-bem-te-vi-lote-30-r-43706000</URL>
+    <PrecoVenda>420000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/terreno-bem-te-vi-lote-29-por-437-060-00_20250428115717.jpeg</URLArquivo>
+    <CodigoImovel>TE000412</CodigoImovel>
+    <TipoImovel>TERRENO</TipoImovel>
+    <Observacao>TERRENO BEM TE VI LOTE 29 POR R$437.060,00</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/terreno-bem-te-vi-lote-29-por-r43706000</URL>
+    <PrecoVenda>1200000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/terreno-no-bem-te-vi-lote-2-por-538-629-00_20250428113213.jpeg</URLArquivo>
+    <CodigoImovel>TE000411</CodigoImovel>
+    <TipoImovel>TERRENO</TipoImovel>
+    <Observacao>TERRENO NO BEM TE VI LOTE 2 POR R$ 538.629,00</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/terreno-no-bem-te-vi-lote-2-por-r-53862900</URL>
+    <PrecoVenda>3900000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/terreno-no-bem-te-vi-lote-1-por-538-629-00_20250428112442.jpeg</URLArquivo>
+    <CodigoImovel>TE000410</CodigoImovel>
+    <TipoImovel>TERRENO</TipoImovel>
+    <Observacao>TERRENO NO BEM TE VI LOTE 1 POR R$538.629,00</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/terreno-no-bem-te-vi-lote-1-por-r53862900</URL>
+    <PrecoVenda>860000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/terreno-de-esquina-no-bem-te-vi-po-338-754-00_20250428111857.jpeg</URLArquivo>
+    <CodigoImovel>TE000409</CodigoImovel>
+    <TipoImovel>TERRENO</TipoImovel>
+    <Observacao>TERRENO DE ESQUINA NO BEM TE VI PO R$ 338.754,00</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/terreno-de-esquina-no-bem-te-vi-po-r-33875400</URL>
+    <PrecoVenda>1100000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/terreno-no-jardim-das-andorinhas-por-277-095-00_20250428104111.jpeg</URLArquivo>
+    <CodigoImovel>TE000408</CodigoImovel>
+    <TipoImovel>TERRENO</TipoImovel>
+    <Observacao>TERRENO NO JARDIM DAS ANDORINHAS POR R$ 277.095,00</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/terreno-no-jardim-das-andorinhas-por-r-27709500</URL>
+    <PrecoVenda>1390000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/terreno-no-jardim-das-andorinhas-por-273-845-00_20250428102412.jpeg</URLArquivo>
+    <CodigoImovel>TE000407</CodigoImovel>
+    <TipoImovel>TERRENO</TipoImovel>
+    <Observacao>TERRENO NO JARDIM DAS ANDORINHAS POR  R$ 273.845,00</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/terreno-no-jardim-das-andorinhas-por-r-27384500</URL>
+    <PrecoVenda>300000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/terreno-smart-city-por-175-000-00_20250424160833.jpeg</URLArquivo>
+    <CodigoImovel>TE000406</CodigoImovel>
+    <TipoImovel>TERRENO</TipoImovel>
+    <Observacao>TERRENO SMART CITY - INDAIATUBA - POR R$175.000,00</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/terreno-smart-city-indaiatuba-por-r17500000</URL>
+    <PrecoVenda>1595000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/casa-de-alto-padrao-condominio-helvetia-polo-5-800-000-00_20250416091404.jpg</URLArquivo>
+    <CodigoImovel>CA000401</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>CASA DE ALTO PADRÃO – CONDOMÍNIO HELVETIA POLO R$ 5.800.000,00</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/casa-de-alto-padrao-condominio-helvetia-polo-r-580000000</URL>
+    <PrecoVenda>600000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/casa-a-venda-no-bairro-parque-campo-bonito-por-500-000-00-indaiatuba-sp_20250412122912.jpg</URLArquivo>
+    <CodigoImovel>CA000400</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>Casa à venda, no bairro Parque Campo Bonito, por R$ 500.000,00 – Indaiatuba/SP</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/casa-a-venda-no-bairro-parque-campo-bonito-por-r-50000000-indaiatubasp</URL>
+    <PrecoVenda>2200000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/lindo-apartamento-todo-mobiliado-e-equipado-vila-vic-bruxelas-53m-por-400-000-00_20250411170306.jpeg</URLArquivo>
+    <CodigoImovel>AP000399</CodigoImovel>
+    <TipoImovel>APARTAMENTO</TipoImovel>
+    <Observacao>LINDO APARTAMENTO, TODO MOBILIADO E EQUIPADO VILA VIC BRUXELAS, 53m² POR R$400.000,00</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/lindo-apartamento-todo-mobiliado-e-equipado-vila-vic-bruxelas-53m-por-r40000000</URL>
+    <PrecoVenda>1100000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/refugio-da-natureza-lote-de-420m2-de-frente-com-a-mata-no-condominio-terra-magna_20250411162506.jpg</URLArquivo>
+    <CodigoImovel>TE000398</CodigoImovel>
+    <TipoImovel>TERRENO</TipoImovel>
+    <Observacao>REFÚGIO DA NATUREZA LOTE DE 420M2 DE FRENTE COM A MATA NO CONDOMINIO TERRA MAGNA</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/refugio-da-natureza-lote-de-420m2-de-frente-com-a-mata-no-condominio-terra-magna</URL>
+    <PrecoVenda>0</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/casa-a-venda-no-jardim-nova-veneza-por-500-000-00-otima-localizacao-e-espaco-para-ampliar-indaiatuba-sp_20250411143303.jpeg</URLArquivo>
+    <CodigoImovel>CA000395</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>CASA À VENDA NO JARDIM NOVA VENEZA POR R$500.000.00, ÓTIMA LOCALIZAÇÃO E ESPAÇO PARA AMPLIAR - INDAIATUBA-SP</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/casa-a-venda-no-jardim-nova-veneza-por-r50000000-otima-localizacao-e-espaco-para-ampliar-indaiatuba-sp</URL>
+    <PrecoVenda>1277000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/casa-a-venda-em-condominio-montreal-residence-680-000-00_20250409110021.jpeg</URLArquivo>
+    <CodigoImovel>SO000392</CodigoImovel>
+    <TipoImovel>SOBRADO</TipoImovel>
+    <Observacao>SOBRADO À VENDA EM CONDOMINIO MONTREAL RESIDENCE - $ 680.000,00</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/sobrado-a-venda-em-condominio-montreal-residence-68000000</URL>
+    <PrecoVenda>0</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/linda-casa-assobradada-a-venda-no-bairro-jardim-regina-em-indaiatuba-sp-por-1-150-000-00_20250509103611.jpg</URLArquivo>
+    <CodigoImovel>SO000386</CodigoImovel>
+    <TipoImovel>SOBRADO</TipoImovel>
+    <Observacao>LINDA CASA ASSOBRADADA A VENDA NO BAIRRO JARDIM REGINA EM INDAIATUBA/SP POR R$990.000,00</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/linda-casa-assobradada-a-venda-no-bairro-jardim-regina-em-indaiatubasp-por-r99000000</URL>
+    <PrecoVenda>2290000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/terreno-misto-de-esquina-231-51-m2-rua-juarez-pereira-da-silva-83-jd-beija-flor_20250403101154.jpeg</URLArquivo>
+    <CodigoImovel>TE000385</CodigoImovel>
+    <TipoImovel>TERRENO</TipoImovel>
+    <Observacao>TERRENO MISTO DE ESQUINA 231,51 m2 - RUA JUAREZ PEREIRA DA SILVA, 83, JD. BEIJA FLOR - INDAIATUBA -  R$ 299.000,00</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/terreno-misto-de-esquina-23151-m2-rua-juarez-pereira-da-silva-83-jd-beija-flor-indaiatuba-r-29900000</URL>
+    <PrecoVenda>2150000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/terreno-misto-de-esquina-299-13-m-av-manuel-ruz-peres-indaiatuba_20250403095757.jpeg</URLArquivo>
+    <CodigoImovel>TE000384</CodigoImovel>
+    <TipoImovel>TERRENO</TipoImovel>
+    <Observacao>TERRENO MISTO DE ESQUINA 299,13 m² - AV.MANUEL RUZ PERES - INDAIATUBA - 341.000,00</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/terreno-misto-de-esquina-29913-m-avmanuel-ruz-peres-indaiatuba-34100000</URL>
+    <PrecoVenda>0</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/belissima-casa-a-venda-no-jardim-morada-do-sol-530-000-00_20250324163158.jpeg</URLArquivo>
+    <CodigoImovel>CA000379</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>BELÍSSIMA CASA A VENDA NO JARDIM MORADA DO SOL R$530.000,00</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/belissima-casa-a-venda-no-jardim-morada-do-sol-r53000000</URL>
+    <PrecoVenda>1060000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/maravilhosa-casa-terrea-novissima-a-venda-no-condominio-viena-em-indaiatuba-sp-2-000-000-00_20250324160316.jpg</URLArquivo>
+    <CodigoImovel>CA000378</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>MARAVILHOSA CASA TERREA NOVÍSSIMA A VENDA NO CONDOMINIO VIENA EM INDAIATUBA/SP R$2.000.000,00</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/maravilhosa-casa-terrea-novissima-a-venda-no-condominio-viena-em-indaiatubasp-r200000000</URL>
+    <PrecoVenda>1980000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/lindo-sobrado-a-venda-no-jardim-do-vale-950-000-00_20250321162910.jpg</URLArquivo>
+    <CodigoImovel>CA000375</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>LINDO SOBRADO A VENDA NO JARDIM DO VALE R$ 950.000,00</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/lindo-sobrado-a-venda-no-jardim-do-vale-r-95000000</URL>
+    <PrecoVenda>393000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/linda-casa-terrea-a-venda-no-condominio-viena-em-indaiatuba-sp-1-060-000-00_20250317122610.jpg</URLArquivo>
+    <CodigoImovel>CA000367</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>NOVÍSSIMA CASA TÉRREA A VENDA NO JD. BELA VISTA EM INDAIATUBA/SP R$ 1.060.000,00</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/novissima-casa-terrea-a-venda-no-jd-bela-vista-em-indaiatubasp-r-106000000</URL>
+    <PrecoVenda>2350000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/apartamento-de-70-m-com-2-quartos-no-ed-alto-da-colina-por-320-000-00_20250313101035.jpeg</URLArquivo>
+    <CodigoImovel>AP000364</CodigoImovel>
+    <TipoImovel>APARTAMENTO</TipoImovel>
+    <Observacao>APARTAMENTO DE 70 M², COM 2 QUARTOS NO ED. ALTO DA COLINA POR  R$ 320.000,00</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/apartamento-de-70-m-com-2-quartos-no-ed-alto-da-colina-por-r-32000000</URL>
+    <PrecoVenda>3180000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/linda-casa-terrea-a-venda-no-condominio-viena-em-indaiatuba-sp-por-1-195-000-00_20250312122845.jpg</URLArquivo>
+    <CodigoImovel>CA000362</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>LINDA CASA TÉRREA A VENDA NO CONDOMÍNIO VIENA EM INDAIATUBA/SP POR R$1.195.000,00</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/linda-casa-terrea-a-venda-no-condominio-viena-em-indaiatubasp-por-r119500000</URL>
+    <PrecoVenda>1540000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/sobrado-a-venda-no-jd-portal-de-itaici-1-824-000-00-indaiatuba-sp_20250310150218.jpg</URLArquivo>
+    <CodigoImovel>SO000357</CodigoImovel>
+    <TipoImovel>SOBRADO</TipoImovel>
+    <Observacao>SOBRADO À VENDA NO JD. PORTAL DE ITAICI R$ 1.824.000,00 INDAIATUBA-SP</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/sobrado-a-venda-no-jd-portal-de-itaici-r-182400000-indaiatuba-sp</URL>
+    <PrecoVenda>1450000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/apartamento-flat-no-condominio-villa-sicilia-vittoria-por-240-000-00_20250306094100.jpeg</URLArquivo>
+    <CodigoImovel>AP000352</CodigoImovel>
+    <TipoImovel>APARTAMENTO</TipoImovel>
+    <Observacao>APARTAMENTO NO CONDOMÍNIO VILLA SICILIA VITTORIA POR R$ 275.000,00</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/apartamento-no-condominio-villa-sicilia-vittoria-por-r-27500000</URL>
+    <PrecoVenda>205000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/casa-a-venda-com-2-unidades-no-bairro-jardim-hubert-por-530-000-00-indaiatuba-sp_20250227135808.jpeg</URLArquivo>
+    <CodigoImovel>CA000340</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>CASA À VENDA, COM 2 UNIDADES, NO BAIRRO JARDIM HUBERT POR R$530.000,00 INDAIATUBA/SP</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/casa-a-venda-com-2-unidades-no-bairro-jardim-hubert-por-r53000000-indaiatubasp</URL>
+    <PrecoVenda>600000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/excelente-apartamento-com-suite-e-varanda-gourmet-ed-parma-451-000-00_20250416094620.jpeg</URLArquivo>
+    <CodigoImovel>AP000324</CodigoImovel>
+    <TipoImovel>APARTAMENTO</TipoImovel>
+    <Observacao>EXCELENTE APARTAMENTO COM SUÍTE E VARANDA GOURMET ED PARMA R$456.000,00</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/excelente-apartamento-com-suite-e-varanda-gourmet-ed-parma-r45600000</URL>
+    <PrecoVenda>375000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/duas-casas-antigas-na-rua-24-de-maio-excelente-localizacao-para-comercio_20250226102527.jpg</URLArquivo>
+    <CodigoImovel>CA000323</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>DUAS CASAS ANTIGAS NA RUA 24 DE MAIO EXCELENTE LOCALIZAÇAO PARA COMERCIO</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/duas-casas-antigas-na-rua-24-de-maio-excelente-localizacao-para-comercio</URL>
+    <PrecoVenda>0</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/novissima-casa-terrea-em-bairro-tradicional-de-indaiatuba-790-000-00_20250226105052.jpg</URLArquivo>
+    <CodigoImovel>CA000321</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>NOVÍSSIMA CASA TÉRREA EM BAIRRO TRADICIONAL DE INDAIATUBA!! R$790.000,00</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/novissima-casa-terrea-em-bairro-tradicional-de-indaiatuba-r79000000</URL>
+    <PrecoVenda>850000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/excelente-casa-terrea-novissima-em-bairro-tradicional-de-indaiatuba-790-000-00_20250226104957.jpg</URLArquivo>
+    <CodigoImovel>CA000319</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>EXCELENTE CASA TÉRREA NOVÍSSIMA EM BAIRRO TRADICIONAL DE INDAIATUBA!!  R$790.000,00</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/excelente-casa-terrea-novissima-em-bairro-tradicional-de-indaiatuba-r79000000</URL>
+    <PrecoVenda>985000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/lindissima-casa-terrea-no-jd-esplanada-ii-1-271-900-00_20250221121816.jpg</URLArquivo>
+    <CodigoImovel>CA000313</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>LINDÍSSIMA CASA TÉRREA NO JD ESPLANADA II R$1.272.000,00</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/lindissima-casa-terrea-no-jd-esplanada-ii-r127200000</URL>
+    <PrecoVenda>1390000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/sobrado-a-venda-no-condompinio-portal-de-itaici-por-980-000-00-indaiatuba-sp_20250218150625.jpg</URLArquivo>
+    <CodigoImovel>SO000308</CodigoImovel>
+    <TipoImovel>SOBRADO</TipoImovel>
+    <Observacao>Sobrado à venda no Condomínio Portal de Itaici por R$ 980.000,00 - Indaiatuba - SP</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/sobrado-a-venda-no-condominio-portal-de-itaici-por-r-98000000-indaiatuba-sp</URL>
+    <PrecoVenda>335000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/casa-com-3-suites-condominio-gran-reserve-1-300-000-00_20250218092900.jpeg</URLArquivo>
+    <CodigoImovel>CA000289</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>CASA COM 3 SUÍTES Q13L14 – CONDOMÍNIO GRAN RESERVE R$ 1.300.000,00</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/casa-com-3-suites-q13l14-condominio-gran-reserve-r-130000000</URL>
+    <PrecoVenda>1385000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/lindo-apartamento-a-venda-as-margens-do-parque-ecologico-no-condominio-vila-parque-por-740-00-00_20250212164139.jpeg</URLArquivo>
+    <CodigoImovel>AP000283</CodigoImovel>
+    <TipoImovel>APARTAMENTO</TipoImovel>
+    <Observacao>LINDO APARTAMENTO À VENDA AS MARGENS DO PARQUE ECOLÓGICO NO CONDOMÍNIO VILA PARQUE POR R$689.00,00</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/lindo-apartamento-a-venda-as-margens-do-parque-ecologico-no-condominio-vila-parque-por-r6890000</URL>
+    <PrecoVenda>689000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/seu-apartamento-esta-no-residencial-victoria-pelo-valor-de-626-000-00_20250212162227.jpeg</URLArquivo>
+    <CodigoImovel>AP000282</CodigoImovel>
+    <TipoImovel>APARTAMENTO</TipoImovel>
+    <Observacao>SEU APARTAMENTO ESTÁ NO RESIDENCIAL VICTORIA PELO VALOR DE 626.000,00</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/seu-apartamento-esta-no-residencial-victoria-pelo-valor-de-62600000</URL>
+    <PrecoVenda>0</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/linda-casa-a-venda-no-jardim-barcelona-790-000-00-inadaituba-sp_20250205112103.jpg</URLArquivo>
+    <CodigoImovel>CA000269</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>LINDA CASA A VENDA NO JARDIM BARCELONA 790.000,00 INADAITUBA /SP</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/linda-casa-a-venda-no-jardim-barcelona-79000000-inadaituba-sp</URL>
+    <PrecoVenda>435000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/excelente-casa-assobradada-a-venda-no-jd-bela-vista-em-indaiatuba-sp-1-190-000-00_20250901150541.jpeg</URLArquivo>
+    <CodigoImovel>CA000262</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>EXCELENTE CASA ASSOBRADADA À VENDA NO JD BELA VISTA EM INDAIATUBA/SP R$ 1.190.000,00</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/excelente-casa-assobradada-a-venda-no-jd-bela-vista-em-indaiatubasp-r-119000000</URL>
+    <PrecoVenda>370000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/casa-a-venda-no-condominio-vila-paraty-jardim-dos-imperios-indaiatuba-sp-765-000-00_20250203112645.jpeg</URLArquivo>
+    <CodigoImovel>CA000260</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>Casa à Venda no Condomínio Vila Paraty, Jardim dos Impérios, Indaiatuba SP - R$ 765.000,00</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/casa-a-venda-no-condominio-vila-paraty-jardim-dos-imperios-indaiatuba-sp-r-76500000</URL>
+    <PrecoVenda>960000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/lote-a-venda-no-condominio-laguna-em-indaiatuba-sp_20250901145127.jpeg</URLArquivo>
+    <CodigoImovel>TE000258</CodigoImovel>
+    <TipoImovel>TERRENO</TipoImovel>
+    <Observacao>LOTE A VENDA NO CONDOMÍNIO LAGUNA EM INDAIATUBA/SP</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/lote-a-venda-no-condominio-laguna-em-indaiatubasp</URL>
+    <PrecoVenda>0</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/apartamento-a-venda-no-edificio-antares-no-jardim-america-por-700-000-00-indaiatuba-sp_20250130151835.jpg</URLArquivo>
+    <CodigoImovel>AP000249</CodigoImovel>
+    <TipoImovel>APARTAMENTO</TipoImovel>
+    <Observacao>Apartamento à venda no Edifício Antares no Jardim América por R$650.000,00 - Indaiatuba SP</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/apartamento-a-venda-no-edificio-antares-no-jardim-america-por-r65000000-indaiatuba-sp</URL>
+    <PrecoVenda>380000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/casa-a-venda-no-condominio-moradas-de-itaici-por-700-000-00-em-indaiatuba-sp_20250127153238.jpg</URLArquivo>
+    <CodigoImovel>CA000246</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>Casa à venda no Condomínio Moradas de Itaici por R$700.000,00 em Indaiatuba SP</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/casa-a-venda-no-condominio-moradas-de-itaici-por-r70000000-em-indaiatuba-sp</URL>
+    <PrecoVenda>380000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/magnifica-casa-terrea-a-venda-no-condominio-maria-dulce-em-indaiatuba-2-250-000-00_20250125163301.jpg</URLArquivo>
+    <CodigoImovel>CA000242</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>MAGNIFICA CASA TÉRREA A VENDA NO CONDOMINIO MARIA DULCE EM INDAIATUBA R$2.250.000,00</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/magnifica-casa-terrea-a-venda-no-condominio-maria-dulce-em-indaiatuba-r225000000</URL>
+    <PrecoVenda>1790000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/maravilhosa-chacara-a-venda-lagos-de-shanadu-indaiatuba-sp-3500-000-00_20250125143607.jpg</URLArquivo>
+    <CodigoImovel>CH000240</CodigoImovel>
+    <TipoImovel>CHÁCARA</TipoImovel>
+    <Observacao>MARAVILHOSA CHACARA A VENDA LAGOS DE SHANADU INDAIATUBA/SP R$3500.000,00</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/maravilhosa-chacara-a-venda-lagos-de-shanadu-indaiatubasp-r350000000</URL>
+    <PrecoVenda>1810000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/chacara-a-venda-no-condominio-recanto-das-flores-por-2-200-000-00-indaiatuba-sp_20250123132644.jpg</URLArquivo>
+    <CodigoImovel>CH000231</CodigoImovel>
+    <TipoImovel>CHÁCARA</TipoImovel>
+    <Observacao>Chácara à venda no Condomínio Recanto das Flores por R$2.200.000,00 - Indaiatuba SP</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/chacara-a-venda-no-condominio-recanto-das-flores-por-r220000000-indaiatuba-sp</URL>
+    <PrecoVenda>1250000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/oportunidade-imperdivel-casa-com-3-unidades-na-cidade-nova-indaiatuba-sp-1-350-000-00_20250121163439.jpg</URLArquivo>
+    <CodigoImovel>CA000230</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>OPORTUNIDADE IMPERDIVEL;CASA COM 3 UNIDADES NA CIDADE NOVA, INDAIATUBA SP R$1.350.000,00</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/oportunidade-imperdivelcasa-com-3-unidades-na-cidade-nova-indaiatuba-sp-r135000000</URL>
+    <PrecoVenda>345000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/casa-terrea-a-venda-no-jardim-alice-indaiatuba-sp-450-000-00_20250120111444.jpg</URLArquivo>
+    <CodigoImovel>CA000223</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>CASA TÉRREA A VENDA NO JARDIM ALICE - INDAIATUBA/SP - R$ 450.000,00</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/casa-terrea-a-venda-no-jardim-alice-indaiatubasp-r-45000000</URL>
+    <PrecoVenda>1450000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/casa-condominio-residencial-montreal-1-280-000-00_20250116203227.jpg</URLArquivo>
+    <CodigoImovel>CA000220</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>CASA CONDOMÍNIO RESIDENCIAL MONTREAL - R$ 1.280.000,00</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/casa-condominio-residencial-montreal-r-128000000</URL>
+    <PrecoVenda>1150000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/chacara-a-venda-no-recanto-das-flores-por-4-000-000-00-indaiatuba-sp_20250114142915.jpg</URLArquivo>
+    <CodigoImovel>CH000219</CodigoImovel>
+    <TipoImovel>CHÁCARA</TipoImovel>
+    <Observacao>Chácara à venda no Recanto das Flores por R$4.000.000,00 - Indaiatuba SP</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/chacara-a-venda-no-recanto-das-flores-por-r400000000-indaiatuba-sp</URL>
+    <PrecoVenda>1280000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/apartamento-a-venda-no-condominio-araca-por-203-000-00-condominio-na-avenida_20250111164739.jpg</URLArquivo>
+    <CodigoImovel>AP000217</CodigoImovel>
+    <TipoImovel>APARTAMENTO</TipoImovel>
+    <Observacao>APARTAMENTO A VENDA NO CONDOMINIO ARAÇA POR R$ 203.000,00 - INDAIATUBA SP</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/apartamento-a-venda-no-condominio-araca-por-r-20300000-indaiatuba-sp</URL>
+    <PrecoVenda>430000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/casa-linda-e-moderna-a-venda-980-000-00-no-residencial-monte-verde-indaiatuba-sp_20250106213729.jpg</URLArquivo>
+    <CodigoImovel>CA000212</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>CASA LINDA E MODERNA A VENDA - RESIDENCIAL MONTE VERDE- R$ 850.000.00 - INDAIATUBA-SP</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/casa-linda-e-moderna-a-venda-residencial-monte-verde-r-85000000-indaiatuba-sp</URL>
+    <PrecoVenda>380000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/chacara-a-venda-no-condominio-vale-das-laranjeiras-em-itaici-por-3-500-00-indaiatuba-sp_20241217205028.jpg</URLArquivo>
+    <CodigoImovel>CA000210</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>Chácara a venda no Condomínio Vale das Laranjeiras em Itaici por $3.500.000 - Indaiatuba-SP</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/chacara-a-venda-no-condominio-vale-das-laranjeiras-em-itaici-por-3500000-indaiatuba-sp</URL>
+    <PrecoVenda>0</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/casa-a-venda-no-bairro-jd-itamaraca-por-636-000-00-indaiatuba-sp_20241217121622.jpg</URLArquivo>
+    <CodigoImovel>CA000207</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>Casa a venda no bairro Jd Itamaracá por $636.000,00 - Indaiatuba-SP</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/casa-a-venda-no-bairro-jd-itamaraca-por-63600000-indaiatuba-sp</URL>
+    <PrecoVenda>0</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/casa-terrea-a-venda-no-residencial-dona-lucilla-com-3-suites_20241211173757.jpg</URLArquivo>
+    <CodigoImovel>CA000204</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>CASA TÉRREA A VENDA NO RESIDENCIAL DONA LUCILLA COM 3 SUÍTES.</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/casa-terrea-a-venda-no-residencial-dona-lucilla-com-3-suites</URL>
+    <PrecoVenda>0</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/casa-terrea-a-venda-no-dona-lucilla_20241209150029.jpeg</URLArquivo>
+    <CodigoImovel>CA000201</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>DESCUBRA O LAR DOS SEUS SONHOS! ESSA CASA TÉRREA ALTO PADRÃO COM PISCINA NO  JD DONA LUCILLA É PERFEITA PARA VOCÊ E PARA SUA FAMÍLIA! NO VALOR DE R$2.490.000,00</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/descubra-o-lar-dos-seus-sonhos-essa-casa-terrea-alto-padrao-com-piscina-no-jd-dona-lucilla-e-perfeita-para-voce-e-para-sua-familia-no-valor-de-r249000000</URL>
+    <PrecoVenda>1300000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/apartamento-a-venda-no-residencial-manai-indaiatuba-sp_20241202113904.jpg</URLArquivo>
+    <CodigoImovel>AP000194</CodigoImovel>
+    <TipoImovel>APARTAMENTO</TipoImovel>
+    <Observacao>APARTAMENTO A VENDA 630.000.00 NO RESIDENCIAL MANAI. INDAIATUBA SP</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/apartamento-a-venda-63000000-no-residencial-manai-indaiatuba-sp</URL>
+    <PrecoVenda>630000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/sobrado-a-venda-por-1-500-000-00-na-vila-suica-indaiatuba-sp_20241128123548.jpg</URLArquivo>
+    <CodigoImovel>CA000193</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>SOBRADO A VENDA POR 1.296.380,00 NA VILA SUIÇA, INDAIATUBA SP</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/sobrado-a-venda-por-129638000-na-vila-suica-indaiatuba-sp</URL>
+    <PrecoVenda>1296380</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/apartamento-a-venda-510-000-00-conforto-e-elegancia-no-campinas-boulevard-sao-bernardo-campinas-sp_20241128103915.jpg</URLArquivo>
+    <CodigoImovel>AP000192</CodigoImovel>
+    <TipoImovel>APARTAMENTO</TipoImovel>
+    <Observacao>APARTAMENTO A VENDA 510.000.00  NO CAMPINAS BOULEVARD - SÃO BERNARDO-CAMPINAS SP</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/apartamento-a-venda-51000000-no-campinas-boulevard-sao-bernardo-campinas-sp</URL>
+    <PrecoVenda>510000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/sobrado-a-venda-nojardim-regina-850-0000-00-indaiatuba-sp_20241127085033.jpg</URLArquivo>
+    <CodigoImovel>SO000190</CodigoImovel>
+    <TipoImovel>SOBRADO</TipoImovel>
+    <Observacao>SOBRADO A VENDA NOJARDIM REGINA, R$ 960.000.00 INDAIATUBA SP</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/sobrado-a-venda-nojardim-regina-r-96000000-indaiatuba-sp</URL>
+    <PrecoVenda>1380000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/oportuninade-imperdivel-no-jardim-recanto-do-vale-indaiatuba-sp_20241127072634.jpg</URLArquivo>
+    <CodigoImovel>CA000189</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>OPORTUNINADE IMPERDIVEL NO JARDIM RECANTO DO VALE,CASA A VENDA 600.000.00 INDAIATUBA SP.</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/oportuninade-imperdivel-no-jardim-recanto-do-valecasa-a-venda-60000000-indaiatuba-sp</URL>
+    <PrecoVenda>600000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/casa-a-venda-800-000-00-no-residencial-jardim-monte-verde-indaiatuba-sp_20250828112640.jpeg</URLArquivo>
+    <CodigoImovel>CA000188</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>CASA A VENDA, 800.000,00 NO RESIDENCIAL JARDIM MONTE VERDE,INDAIATUBA/SP</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/casa-a-venda-80000000-no-residencial-jardim-monte-verdeindaiatubasp</URL>
+    <PrecoVenda>800000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/chacara-a-venda-no-recreiro-campestre-de-viracopos-indaiatuba-sp-550-000-00_20241126152135.jpg</URLArquivo>
+    <CodigoImovel>CA000187</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>CHÁCARA A VENDA NO RECREIRO CAMPESTRE DE VIRACOPOS - INDAIATUBA/SP - R$ 550.000,00</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/chacara-a-venda-no-recreiro-campestre-de-viracopos-indaiatubasp-r-55000000</URL>
+    <PrecoVenda>795000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/casa-terrea-a-venda-na-vila-todos-os-santos-indaiatuba-sp-850-000-00_20241128133937.jpg</URLArquivo>
+    <CodigoImovel>CA000186</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>CASA TÉRREA A VENDA NA VILA TODOS OS SANTOS - INDAIATUBA/SP - R$ 850.000,00</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/casa-terrea-a-venda-na-vila-todos-os-santos-indaiatubasp-r-85000000</URL>
+    <PrecoVenda>1600000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/sobrado-a-venda-no-park-real-por-1050-449-50-indaiatuba-sp_20241121180028.jpg</URLArquivo>
+    <CodigoImovel>SO000183</CodigoImovel>
+    <TipoImovel>SOBRADO</TipoImovel>
+    <Observacao>Sobrado à venda no Park Real por R$1050.449,50 - Indaiatuba - SP -</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/sobrado-a-venda-no-park-real-por-r105044950-indaiatuba-sp</URL>
+    <PrecoVenda>1595000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/casa-a-venda-no-jardim-adriana-550-000-00_20241106162105.jpeg</URLArquivo>
+    <CodigoImovel>CA000173</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>CASA A VENDA NO JARDIM ADRIANA R$ 550.000,00</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/casa-a-venda-no-jardim-adriana-r-55000000</URL>
+    <PrecoVenda>880000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/terreno-a-venda-no-bairro-moriyama-indaiatuba-sp-com-187-50m2-pelo-valor-de-260-000-00_20241029150413.jpg</URLArquivo>
+    <CodigoImovel>TE000169</CodigoImovel>
+    <TipoImovel>TERRENO</TipoImovel>
+    <Observacao>Terreno a venda no Bairro Moriyama, Indaiatuba SP com 187,50m2 pelo valor de R$ 260.000,00.</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/terreno-a-venda-no-bairro-moriyama-indaiatuba-sp-com-18750m2-pelo-valor-de-r-26000000</URL>
+    <PrecoVenda>361000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/linda-casa-nova-com-3-dormitorios-com-1-suite-a-venda-com-planejados-e-piscina-por-700-000-00-colibris-indaiatuba-sp_20241029133809.jpeg</URLArquivo>
+    <CodigoImovel>CA000168</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>Linda casa nova com 3 dormitórios com 1 suíte, à venda, com planejados e piscina por R$ 700.000,00 - Colibrís, Indaiatuba - SP</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/linda-casa-nova-com-3-dormitorios-com-1-suite-a-venda-com-planejados-e-piscina-por-r-70000000-colibris-indaiatuba-sp</URL>
+    <PrecoVenda>1220000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/casa-sobrado-nos-fundos-com-terreno-grande-na-parte-frontal_20241023103418.jpeg</URLArquivo>
+    <CodigoImovel>CA000159</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>Casa sobrado ã venda nos fundos com 2 suítes e terreno grande na parte frontal! Jd Europa  R$780.000,00</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/casa-sobrado-a-venda-nos-fundos-com-2-suites-e-terreno-grande-na-parte-frontal-jd-europa-r78000000</URL>
+    <PrecoVenda>860000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/casa-de-alto-padrao-a-venda-por-1-300-000-00-no-condominio-maison-blanche-indaiatuba-sp_20241022152208.jpg</URLArquivo>
+    <CodigoImovel>CA000157</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>Casa de alto Padrão á venda por R$1.300.000,00 no Condomínio Maison Blanche- Indaiatuba/SP</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/casa-de-alto-padrao-a-venda-por-r130000000-no-condominio-maison-blanche-indaiatubasp</URL>
+    <PrecoVenda>750000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/terreno-a-venda-no-jd-nova-veneza-por-270-300-00-aceita-financiamento-indaiatuba-sp_20241022144328.jpg</URLArquivo>
+    <CodigoImovel>TE000156</CodigoImovel>
+    <TipoImovel>TERRENO</TipoImovel>
+    <Observacao>TERRENO Á VENDA NO JD NOVA VENEZA POR R$256.000,00 ACEITA FINANCIAMENTO - INDAIATUBA -SP</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/terreno-a-venda-no-jd-nova-veneza-por-r25600000-aceita-financiamento-indaiatuba-sp</URL>
+    <PrecoVenda>3200000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/casa-a-venda-no-condominio-montreal-incluso-os-moveis-e-eletrodomesticos-por-989-000-00-indaiatuba-sp_20241011170841.jpg</URLArquivo>
+    <CodigoImovel>CA000148</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>Casa à venda no Condomínio Montreal incluso os moveis e eletrodomésticos por R$989.000,00 - Indaiatuba -SP</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/casa-a-venda-no-condominio-montreal-incluso-os-moveis-e-eletrodomesticos-por-r98900000-indaiatuba-sp</URL>
+    <PrecoVenda>1250000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/casa-a-venda-no-condominio-montreal-por-949-000-00-indaiatuba-sp_20241010144146.jpeg</URLArquivo>
+    <CodigoImovel>CA000145</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>Casa à venda no Condomínio Montreal por R$949.000,00 - Indaiatuba - SP -</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/casa-a-venda-no-condominio-montreal-por-r94900000-indaiatuba-sp</URL>
+    <PrecoVenda>1490000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/casa-a-venda-no-condominio-montreal-por-939-000-00-indaiatuba-sp_20241010141241.jpeg</URLArquivo>
+    <CodigoImovel>CA000144</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>Casa à venda no Condomínio Montreal por R$949.000,00 Indaiatuba - SP -</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/casa-a-venda-no-condominio-montreal-por-r94900000-indaiatuba-sp-1</URL>
+    <PrecoVenda>990000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/casa-a-venda-no-condominio-village-por-850-000-00-indaiatuba-sp_20241010131612.jpeg</URLArquivo>
+    <CodigoImovel>CA000143</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>Casa a venda no Condomínio Village por $850.000,00 - Indaiatuba-SP</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/casa-a-venda-no-condominio-village-por-85000000-indaiatuba-sp</URL>
+    <PrecoVenda>0</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/chacara-900-m-com-vista-privilegiada-a-venda-no-jardim-buru-em-salto-sp-oportunidade_20240929203755.jpg</URLArquivo>
+    <CodigoImovel>CA000136</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>Chácara 900 m² com Vista Privilegiada à Venda no Jardim Buru em Salto/SP! Oportunidade!</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/chacara-900-m-com-vista-privilegiada-a-venda-no-jardim-buru-em-saltosp-oportunidade</URL>
+    <PrecoVenda>0</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/apartamento-a-venda-com-suite-por-940-000-00-indaiatuba-sp_20240927173400.jpg</URLArquivo>
+    <CodigoImovel>AP000134</CodigoImovel>
+    <TipoImovel>APARTAMENTO</TipoImovel>
+    <Observacao>Apartamento a venda com suite por R$940.000,00 - Indaiatuba - SP</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/apartamento-a-venda-com-suite-por-r94000000-indaiatuba-sp</URL>
+    <PrecoVenda>850000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/chacara-com-piscina-a-venda-no-condominio-colinas-do-mosteiro-de-itaici-indaiatuba_20240926134657.jpg</URLArquivo>
+    <CodigoImovel>CA000131</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>CHÁCARA COM PISCINA E LAGO À VENDA NO CONDOMÍNIO COLINAS DO MOSTEIRO DE ITAICI - INDAIATUBA -SP - R$ 3.190.000,00</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/chacara-com-piscina-e-lago-a-venda-no-condominio-colinas-do-mosteiro-de-itaici-indaiatuba-sp-r-319000000</URL>
+    <PrecoVenda>3000000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/terreno-a-venda-no-parque-das-nacoes-por-265-000-00-indaiatuba-sp_20240925153222.jpg</URLArquivo>
+    <CodigoImovel>TE000130</CodigoImovel>
+    <TipoImovel>TERRENO</TipoImovel>
+    <Observacao>Terreno à venda no Parque das Nações por R$ 225.000,00 - Indaiatuba-SP</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/terreno-a-venda-no-parque-das-nacoes-por-r-22500000-indaiatuba-sp</URL>
+    <PrecoVenda>1650000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/apartamento-a-venda-no-condominio-primo-uno-por-600-000-00-indaiatuba-sp_20240919174856.jpg</URLArquivo>
+    <CodigoImovel>AP000124</CodigoImovel>
+    <TipoImovel>APARTAMENTO</TipoImovel>
+    <Observacao>Apartamento à venda no Condomínio Primo Uno por R$630.000,00 - Indaiatuba - SP</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/apartamento-a-venda-no-condominio-primo-uno-por-r63000000-indaiatuba-sp</URL>
+    <PrecoVenda>380000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/terreno-misto-a-venda-em-avenida-de-grande-movimento-por-380-000-00-jardim-uniao-indaiatuba-sp_20240915155218.jpg</URLArquivo>
+    <CodigoImovel>TE000120</CodigoImovel>
+    <TipoImovel>TERRENO</TipoImovel>
+    <Observacao>Terreno Misto à venda  em avenida de grande movimento por R$ 380.000,00 - Jardim União, Indaiatuba-SP</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/terreno-misto-a-venda-em-avenida-de-grande-movimento-por-r-38000000-jardim-uniao-indaiatuba-sp</URL>
+    <PrecoVenda>2350000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/casa-de-alto-padrao-a-venda-no-helvetia-park-por-4-250-000-00-indaiatuba-sp_20240915112308.jpg</URLArquivo>
+    <CodigoImovel>CA000119</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>Casa de Alto padrão a venda no Helvetia Park por R$4.250.000,00 - Indaiatuba -SP</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/casa-de-alto-padrao-a-venda-no-helvetia-park-por-r425000000-indaiatuba-sp</URL>
+    <PrecoVenda>390000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/terreno-a-venda-no-jd-barcelona-por-260-000-00-indaiatuba-sp_20240915111931.jpg</URLArquivo>
+    <CodigoImovel>TE000118</CodigoImovel>
+    <TipoImovel>TERRENO</TipoImovel>
+    <Observacao>Terreno à venda no Jd Barcelona por R$ 280.000,00 - Indaiatuba-SP</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/terreno-a-venda-no-jd-barcelona-por-r-28000000-indaiatuba-sp</URL>
+    <PrecoVenda>390000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/casa-a-venda-no-jardim-toscana-por-900-000-00-indaiatuba-sp_20240914104615.jpg</URLArquivo>
+    <CodigoImovel>CA000114</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>Casa a venda no Jardim Toscana por R$850.000,00 - Indaiatuba - SP -</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/casa-a-venda-no-jardim-toscana-por-r85000000-indaiatuba-sp</URL>
+    <PrecoVenda>320000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/casa-a-venda-no-condominio-millano-por-1-580-000-00-indaiatuba-sp_20240906142203.jpg</URLArquivo>
+    <CodigoImovel>CA000102</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>Casa a venda no Condomínio Millano por R$1.580.000,00 - Indaiatuba - SP -</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/casa-a-venda-no-condominio-millano-por-r158000000-indaiatuba-sp</URL>
+    <PrecoVenda>1850000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/casa-a-venda-no-condominio-dona-lucilla-por-1-950-000-00-indaiatuba-sp_20240906170947.jpg</URLArquivo>
+    <CodigoImovel>CA000096</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>Casa a venda no condominio Dona Lucilla por R$ 1.950.000,00 - Indaiatuba - SP</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/casa-a-venda-no-condominio-dona-lucilla-por-r-195000000-indaiatuba-sp</URL>
+    <PrecoVenda>540000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/chacara-a-venda-no-parque-da-bandeiras-por-1-700-000-00-indaiatuba-sp_20240905135248.jpg</URLArquivo>
+    <CodigoImovel>CA000095</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>Chacara à venda no Parque da Bandeiras, por R$1.700.000,00 - Indaiatuba SP</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/chacara-a-venda-no-parque-da-bandeiras-por-r170000000-indaiatuba-sp</URL>
+    <PrecoVenda>540000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/chacara-a-venda-por-1-800-000-00-condominio-terras-de-itaici-indaiatuba-sp_20240905130619.jpg</URLArquivo>
+    <CodigoImovel>CA000094</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>Chácara à venda, por R$1.880.000,00 - Condomínio Terras de Itaici - Indaiatuba SP</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/chacara-a-venda-por-r188000000-condominio-terras-de-itaici-indaiatuba-sp</URL>
+    <PrecoVenda>650000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/casa-a-venda-no-jardim-park-real-por-1-200-000-00-indaiatuba-sp_20240904182823.jpg</URLArquivo>
+    <CodigoImovel>CA000091</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>Casa a venda no Jardim Park Real por R$1.200.000,00 - Indaiatuba - SP</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/casa-a-venda-no-jardim-park-real-por-r120000000-indaiatuba-sp</URL>
+    <PrecoVenda>210000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/chacara-a-venda-por-1-200-000-00-recreio-campestre-viracopos-indaiatuba-sp_20240904180809.jpg</URLArquivo>
+    <CodigoImovel>CA000090</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>Chácara à venda, por R$1.200.000,00 - Recreio Campestre Viracopos - Indaiatuba SP</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/chacara-a-venda-por-r120000000-recreio-campestre-viracopos-indaiatuba-sp</URL>
+    <PrecoVenda>1700000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/chacara-a-venda-por-2-750-000-00-terras-de-itaici-indaiatuba-sp_20240904174719.jpg</URLArquivo>
+    <CodigoImovel>CA000089</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>Chacará a venda por R$2.750.000,00 Terras de Itaici - Indaiatuba - SP</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/chacara-a-venda-por-r275000000-terras-de-itaici-indaiatuba-sp</URL>
+    <PrecoVenda>370000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/linda-casa-a-venda-por-430-000-00-indaiatuba-sp_20240903120900.jpg</URLArquivo>
+    <CodigoImovel>CA000084</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>Linda casa a venda no Bairro Tucanos por R$430.000,00 - Indaiatuba - SP</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/linda-casa-a-venda-no-bairro-tucanos-por-r43000000-indaiatuba-sp</URL>
+    <PrecoVenda>460000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/linda-casa-a-venda-por-440-000-00-indaiatuba-sp_20240903120040.jpg</URLArquivo>
+    <CodigoImovel>CA000083</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>Casa nova a venda no Jardim dos Tucanos por R$440.000,00 - Indaiatuba - SP</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/casa-nova-a-venda-no-jardim-dos-tucanos-por-r44000000-indaiatuba-sp</URL>
+    <PrecoVenda>1500000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/casa-a-venda-com-suite-450-000-00-indaiatuba-sp_20240829163449.jpg</URLArquivo>
+    <CodigoImovel>CA000082</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>Casa a venda com Suite R$450.000,00 - Indaiatuba - SP -</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/casa-a-venda-com-suite-r45000000-indaiatuba-sp</URL>
+    <PrecoVenda>1500000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/casa-de-alto-padrao-a-venda-no-green-view-village-por-1-850-000-00-indaiatuba-sp_20240827124104.jpg</URLArquivo>
+    <CodigoImovel>CA000079</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>Casa de alto padrão a venda no  Green View Village por R$1.850.000,00 Indaiatuba -SP-</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/casa-de-alto-padrao-a-venda-no-green-view-village-por-r185000000-indaiatuba-sp</URL>
+    <PrecoVenda>0</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/belissimo-sobrado-no-park-grand-reserve-indaiatuba-sp_20240826170950.jpeg</URLArquivo>
+    <CodigoImovel>CA000075</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>Belíssimo Sobrado no Park Grand Reserve / Indaiatuba/SP</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/belissimo-sobrado-no-park-grand-reserve-indaiatubasp</URL>
+    <PrecoVenda>315000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/apartamento-a-venda-em-salto-por-230-000-00-estuda-permuta_20240813134217.jpg</URLArquivo>
+    <CodigoImovel>AP000065</CodigoImovel>
+    <TipoImovel>APARTAMENTO</TipoImovel>
+    <Observacao>Apartamento a venda em Salto por R$230.000,00, estuda permuta.</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/apartamento-a-venda-em-salto-por-r23000000-estuda-permuta</URL>
+    <PrecoVenda>485000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/fantastica-casa-no-villa-ytu-814-793-00_20240808160504.jpg</URLArquivo>
+    <CodigoImovel>CA000053</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>CASA À VENDA NO CONDOMÍNIO VILLA YTU R$826.150,00 INDAIATUBA SP</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/casa-a-venda-no-condominio-villa-ytu-r82615000-indaiatuba-sp</URL>
+    <PrecoVenda>235000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/casa-villa-paraty-jardim-dos-inperios-900-000-00_20240808152836.jpg</URLArquivo>
+    <CodigoImovel>CA000051</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>CASA VILLA PARATY JARDIM DOS INPERIOS R$909.000,00</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/casa-villa-paraty-jardim-dos-inperios-r90900000</URL>
+    <PrecoVenda>360000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/lote-no-residencial-casa-do-lago-323-60-m-valor-de-360-mil-reais_20240808151059.jpg</URLArquivo>
+    <CodigoImovel>TE000050</CodigoImovel>
+    <TipoImovel>TERRENO</TipoImovel>
+    <Observacao>Lote no Residencial Casa do Lago 323.60 m² valor de R$360 mil reais</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/lote-no-residencial-casa-do-lago-32360-m-valor-de-r360-mil-reais</URL>
+    <PrecoVenda>450000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/terreno-no-condominio-londo-park-300m-por-450-mil-reais_20240808145713.jpg</URLArquivo>
+    <CodigoImovel>TE000049</CodigoImovel>
+    <TipoImovel>TERRENO</TipoImovel>
+    <Observacao>Terreno no condominio Londo Park 300m² por R$ 450 mil reais</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/terreno-no-condominio-londo-park-300m-por-r-450-mil-reais</URL>
+    <PrecoVenda>390000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/lindo-sobrado-no-residencial-santa-clara-r3-000-000-00_20240807114601.jpg</URLArquivo>
+    <CodigoImovel>CA000046</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>LINDO SOBRADO NO RESIDENCIAL SANTA CLARA R$3.000.000,00</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/lindo-sobrado-no-residencial-santa-clara-r300000000</URL>
+    <PrecoVenda>280000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/casa-no-jardim-vila-paradiso-r2-400-000-000_20240807113925.jpg</URLArquivo>
+    <CodigoImovel>CA000045</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>CASA NO JARDIM VILA PARADISO R$2.400.000,000</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/casa-no-jardim-vila-paradiso-r2400000000</URL>
+    <PrecoVenda>360000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/panorama-residence-casa-a-venda-por-r-1-723-600-00_20240807113211.jpg</URLArquivo>
+    <CodigoImovel>CA000044</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>Panorama Residence casa a venda por R$ 1.723.600,00</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/panorama-residence-casa-a-venda-por-r-172360000</URL>
+    <PrecoVenda>280000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/aedfqgfeuvn_20240806123310.jpg</URLArquivo>
+    <CodigoImovel>AP000036</CodigoImovel>
+    <TipoImovel>APARTAMENTO</TipoImovel>
+    <Observacao>Lindo apartamento a Venda no Condomínio Solar dos Girassóis - R$380.000,00 - Indaiatuba SP</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/lindo-apartamento-a-venda-no-condominio-solar-dos-girassois-r38000000-indaiatuba-sp</URL>
+    <PrecoVenda>0</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/linda-casa-com-3-suites-2-com-closets-no-condominio-maria-jose_20240729170232.jpg</URLArquivo>
+    <CodigoImovel>CA000034</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>Linda Casa com 3 Suítes 2 com Closets no condomínio Maria José</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/linda-casa-com-3-suites-2-com-closets-no-condominio-maria-jose</URL>
+    <PrecoVenda>2900000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/casa-com-4-suites-a-venda-por-r4-500-000-00-condominio-terra-cota-indaiatuba-sp_20240726165937.jpg</URLArquivo>
+    <CodigoImovel>CA000032</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>Casa com 4 suítes à venda, por R$4.500.000,00 - Condomínio Terra Cota - Indaiatuba SP</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/casa-com-4-suites-a-venda-por-r-4-500-000-00-condominio-terra-cota-indaiatuba-sp</URL>
+    <PrecoVenda>1500000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/apartamento-no-centro-de-indaiatuba-no-valor-de-r-427-074-00-reais_20240723173341.jpg</URLArquivo>
+    <CodigoImovel>AP000029</CodigoImovel>
+    <TipoImovel>APARTAMENTO</TipoImovel>
+    <Observacao>Apartamento no Centro de Indaiatuba a venda por R$ 433.965,89</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/apartamento-no-centro-de-indaiatuba-a-venda-por-r-433-965-89</URL>
+    <PrecoVenda>745000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/linda-casa-de-3-dormitorios-na-vila-furlan_20240723143013.jpg</URLArquivo>
+    <CodigoImovel>CA000027</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>Linda Casa com 3 dormitórios na Vila Furlan por R$750.000,00 Indaiatuba - SP</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/linda-casa-com-3-dormitorios-na-vila-furlan-por-r75000000-indaiatuba-sp</URL>
+    <PrecoVenda>1650000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/lindo-apartamento-a-venda-no-edificio-imagine_20240723142421.jpg</URLArquivo>
+    <CodigoImovel>AP000026</CodigoImovel>
+    <TipoImovel>APARTAMENTO</TipoImovel>
+    <Observacao>Apartamento a venda no Edifício Imagine por R$1.190.000,00 Indaiatuba - SP</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/apartamento-a-venda-no-edificio-imagine-por-r119000000-indaiatuba-sp</URL>
+    <PrecoVenda>280000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/linda-casa-terreo-a-venda-em-condominio-fechado-na-deslumbrante-indaiatuba_20240723141836.jpg</URLArquivo>
+    <CodigoImovel>CA000025</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>Linda casa térrea a venda no condomínio Vila Ytu por R$850.000,00 - Indaiatuba - SP</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/linda-casa-terrea-a-venda-no-condominio-vila-ytu-por-r85000000-indaiatuba-sp</URL>
+    <PrecoVenda>800000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/casa-no-jardim-regina-com-3-dormitorios-no-valor-de-r-1-500-000-00-reais_20240723140220.jpg</URLArquivo>
+    <CodigoImovel>CA000023</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>CASA NO JARDIM REGINA  COM 3 DORMITÓRIOS NO VALOR DE R$ 1.500.000,00 - INDAIATUBA - SP</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/casa-no-jardim-regina-com-3-dormitorios-no-valor-de-r-150000000-indaiatuba-sp</URL>
+    <PrecoVenda>2120000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/chacara-jardim-dos-laranjais-terreno-de-3000-mil-metros_20240723135623.jpg</URLArquivo>
+    <CodigoImovel>CA000022</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>CHÁCARA JARDIM DOS LARANJAIS TERRENO DE 3000 MIL METROS - R$ 1.700.000,00 - INDAIATUBA - SP</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/chacara-jardim-dos-laranjais-terreno-de-3000-mil-metros-r-170000000-indaiatuba-sp</URL>
+    <PrecoVenda>1165000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/chacara-com-5-dormitorios-a-venda-por-1-850-000-00-condominio-terras-de-itaici-indaiatuba-sp_20240905163748.jpg</URLArquivo>
+    <CodigoImovel>CA000014</CodigoImovel>
+    <TipoImovel>CASA</TipoImovel>
+    <Observacao>CHÁCARA COM 5 DORMITÓRIOS À VENDA, POR R$2.590.000,00 - CONDOMÍNIO TERRAS DE ITAICI - INDAIATUBA - SP</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/chacara-com-5-dormitorios-a-venda-por-r259000000-condominio-terras-de-itaici-indaiatuba-sp</URL>
+    <PrecoVenda>4800000</PrecoVenda>
+  </Imovel>
+  <Imovel>
+    <URLArquivo>https://seunovolarimoveis.com.br/imob-admin/uploads/imovel/cobertura-a-venda-com-3-dormitorios-sendo-1-suite-por-r1-170-00000-com-todos-os-moveis-duetto-di-mariah-indaiatuba-s-p_20240720090209.jpg</URLArquivo>
+    <CodigoImovel>AP000012</CodigoImovel>
+    <TipoImovel>APARTAMENTO</TipoImovel>
+    <Observacao>COBERTURA À VENDA, COM 3 DORMITÓRIOS SENDO 1 SUÍTE, POR R$1.170.000,00 COM TODOS OS MÓVEIS - DUETTO DI MARIAH - INDAIATUBA - SP</Observacao>
+    <URL>https://seunovolarimoveis.com.br/imovel/cobertura-a-venda-com-3-dormitorios-sendo-1-suite-por-r117000000-com-todos-os-moveis-duetto-di-mariah-indaiatuba-sp</URL>
+    <PrecoVenda>1296000</PrecoVenda>
+  </Imovel>
+</Carga>
